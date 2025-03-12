@@ -1,10 +1,11 @@
+import VisualDictionary from "./components/VisualDictionary";
 
 function App() {
-  
-
   return (
-   <div></div>
-  )
+    <div>
+      <VisualDictionary />
+    </div>
+  );
 }
 
-export default App
+export default App;
